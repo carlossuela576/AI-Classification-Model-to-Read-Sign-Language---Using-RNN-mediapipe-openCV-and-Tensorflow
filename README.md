@@ -7,7 +7,7 @@ This product was made specifically for **research purposes**. The main objective
 
 All of the authors and study references are duly credited for helping to the acomplishment of this study.
 
-Consult "[AI Classification Model to Read Sign Language - Using RNN's, MP, openCV, and TF]()", the main paper for this study.
+Consult "[AI Classification Model to Read Sign Language - Using RNN's, MP, openCV, and TF](https://github.com/carlossuela576/AI-Classification-Model-to-Read-Sign-Language---Using-RNN-mediapipe-openCV-and-Tensorflow/blob/main/AI%20Classification%20Model%20to%20Read%20Sign%20Language%20-%20Using%20RNN's%2C%20MP%2C%20openCV%2C%20and%20TF.pdf)", the main paper for this study.
 
 ***
 This repository contains the following contents.
