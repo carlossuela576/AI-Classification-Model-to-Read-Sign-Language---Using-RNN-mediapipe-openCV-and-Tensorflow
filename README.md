@@ -1,4 +1,4 @@
-# AI Classification Modoel To Read Sign Language - Using RNN, MP, openCV, and TF
+# AI Classification Model To Read Sign Language - Using RNN, MP, openCV, and TF
 Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
 program that recognizes hand signs gestures and finger gestures with a simple MLP using the detected key points. 
 
