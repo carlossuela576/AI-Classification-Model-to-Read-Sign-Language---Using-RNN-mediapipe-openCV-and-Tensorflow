@@ -146,7 +146,7 @@ The model using "LSTM" is as follows. <br>Please change "use_lstm = False" to "T
 # Reference
 * [MediaPipe](https://mediapipe.dev/)
 
-* https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe
+* [Kazuhito00](https://github.com/Kazuhito00)
 
 
 
